@@ -1,0 +1,23 @@
+{
+
+    "manifest_version": 2,
+    "name": "SimpleChat",
+    "version": "1.0.0",
+  
+    "description": "A BlackBerry Communication Services based SimpleChat platform.",
+
+    "icons": {
+      "64": "icons/simplechaticon.png"
+    },
+
+    "permissions": [
+      "activeTab"
+    ],
+  
+    "browser_action": {
+      "default_icon": "icons/simplechaticon.png",
+      "default_title": "SimpleChat",
+      "default_popup": "src/app/app.component.html"
+    }
+  
+  }
