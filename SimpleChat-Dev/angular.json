@@ -118,8 +118,13 @@
               "devServerTarget": "SimpleChat-Dev:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "SimpleChat-Dev"
 }

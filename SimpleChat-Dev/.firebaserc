@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chatwithstrangers-69c9f": {
+      "hosting": {
+        "SimpleChat-Dev": [
+          "chatwithstrangers-69c9f"
+        ]
+      }
+    }
+  }
+}
